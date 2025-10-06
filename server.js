@@ -13,10 +13,10 @@ const indexPath = path.join(publicPath, 'index.html');
 
 // ⚙️ Подключение к SQL Server
 const config = {
-  user: "sa",
-  password: "Micr0!nvest!",
-  server: "26.172.108.181",
-  database: "hpfoods",
+  user: "*",
+  password: "*",
+  server: "*",
+  database: "*",
   options: {
     encrypt: false,
     trustServerCertificate: true
